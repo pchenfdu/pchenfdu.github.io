@@ -1,0 +1,243 @@
+陈平
+ 
+个人自然情况                                                                              
+性别：  男出生年月：1985.4.29          民族：汉
+联系电话：18201846876（中国）          邮箱：chenping19850429@163.com
+教育经历 
+2003.9～2007.6 南京航空航天大学 信息安全 学士 保研至南大
+2010.8～2011.8 普渡大学 计算机系 联合培养博士生（国家公派留学） 研究方向：云计算安全 
+2007.9～2012.6 南京大学 计算机系 计算机软件与理论专业  博士 研究方向：系统与软件安全  
+工作经历         
+2021.5～至今          复旦大学大数据研究院            研究员   博导  国家级人才
+                      研究智能汽车安全和AI安全
+2018.3～2021.5    京东硅谷研发中心（美国）    资深安全架构师/数据和风控安全负责人 
+负责业务风控安全和数据安全
+2014.8～2018.3      宾州州立大学（美国）           博士后研究员
+研究方向：软件与系统安全，包括自适应防御，漏洞挖掘，恶意代码检测。
+2012.6～2014.8         EMC（美国）                    高级研究员
+研究方向：云计算安全，包括 OpenStack(网络虚拟化，存储虚拟化)，漏洞检测。
+获奖情况和主要项目
+2025年 “面向智能网联汽车安全的内生安全风险评估技术研究”入选2024年度网络和数据安全重大科技进展奖 (排名第一)
+2024年 国家启明青年国家人才
+2024年 最新成果内生安全测试技术“多样化定向模糊测试工具集”入选上海市经信委《2024年度上海市网络安全产业创新攻关成果目录》（排名第一）
+2024年 大模型“复保智库”入选上海市大模型产品名录
+2024年 与核工院等获批上海市经信委“上海市核能核电协同创新中心”
+2023年 主持国家重点研发计划课题《智能驾驶系统功能安全与网络安全一体化保障技术》 
+2022年 主持国家重点研发计划课题《网络空间内生安全机制与评估》
+2022年 与上汽集团获批上海市经信委“上海市智能网联汽车协同创新中心”
+2021年 上海市领军人才
+项目经验
+复旦大学（从0到1搭建复旦内生安全实验室，目前实验室有本硕博30+人。主持18项国家级和省部级项目，发表50+论文，包括安全顶会CCS，USENIX Security，TIFS，TDSC，人工智能顶会CVPR，ACL，MM，自动控制顶刊Automatica等，中美专利30余项，著书3本，与华为、上汽、吉利、奇瑞，蚂蚁等近10多家企业横向合作，累计近2000万元）
+2021.5-至今      大模型安全
+针对文生图模型可能生成不安全内容，基于模型异构对其生成内容进行安全审查。
+基于安全架构的AI算法表达存在必要多样性。
+RAG投毒攻击防御并通过大模型的内部状态变化检测防御的有效性。
+针对算法水印局部信息重合的个性问题，设计异构冗余的安全水印。
+通过探索大模型能力边界，降低指令密度，增加信息量，成功提升多款LLM在专业场景下的能力。适用于异构体生成，融合传统攻击理论，生成多样化异构防御链路。
+2021.5-至今      智能驾驶系统功能安全与网络安全一体化保障技术
+研究网络韧性评估技术
+研究ADAS，TBOX内生安全防御架构
+研究内生安全评估测试方法
+一体化保障汽车抵御0-day，APT等大型国家级攻击
+2021.5-至今      网络空间内生安全机制与评估
+研究基于博弈的智能化攻防博弈平台。
+研究多源数据分析的风险评估方法。
+研究多种基于强化学习的智能风险检测方法。
+2021.5-至今     智能车漏洞挖掘
+研究基于状态恢复保存的协议漏洞挖掘。
+研究跨平台的漏洞挖掘框架。
+二、 京东研发中心安全部 （带领60多人团队）
+2018.3～2021.5  主持集团数据安全和合规工作
+负责个人信息保护与隐私合规工作，负责全集团业务需求合规评审，识别合规风险并提供解决方案，实时关注监管动态，把控合规方向，建立隐私及数据把傲虎合规管理体系，在集团内开展信息安全培训
+负责核心敏感数据去标识化工作，包括透明加解密，脱敏等。
+负责核心资产梳理以及权限治理项目，应用资产，数据库，报表的梳理以及权限治理，提供高效的整改方案，实现对业务0影响，且有效提高数据安全能力，保护公司资产。
+负责数据安全管理，持续健全数据全生命周期风险评估，推动多项集团级数据安全专项治理工作，包括权限治理，数据脱敏，流程治理等。
+负责数据防泄漏项目，包括水印，DLP，权限管控，培训以及监控。
+负责GDPR，ISO27001，等保/通保等合规项目
+2018.3～2021.5  主持集团业务风控工作
+负责账号安全，包括人机识别，盗号，批量注册，黄牛订单，反欺诈等 
+主持并研发设备指纹，包括 App,Web,h5。测试并上线统一集团设备指纹服务,并做可信设备。
+主持并研发人机识别，包括设备指纹，行为采集，环境监控等。搭建实时的风控系统，并制作规则引擎，和线下监督和非监督学习。应用在注册，登录和订单环节，防止数亿的机器行为，止损百亿元。
+主持舆情分析，利用灰黑产情报，社交网络，暗网，逆向工程等搜集黑  IP，黑手机，黑地址，黑账号等，并拦截灰黑产。
+大数据风控平台及其运营，基于 Spark Streaming 平台，更新规则和模型，发现批量注册，盗号，黄牛订单等。
+三、 EMC
+2012.7～2014.8      存储/网络虚拟化，OpenStack
+♦Ceph与Viper.建立Ceph与Viper生产环境。测试Ceph与Viper的I/O性能，分析
+Ceph性能瓶颈。将Ceph与OpenStack整合，取代Cinder,并进行研发提升性能。
+♦基于OpenStack的异构存储整合。开发翻译引擎整合EMC存储产品进OpenStack.监控
+并且对运行在OpenStack上的存储提供安全保护。建立dashboard展示结果。
+2013.10～2014.8     存储备份安全
+♦问题：客户需要将OpenStack上的存储备份到Data Domain，然而OpenStack不能为Data
+Domain提供存储加解密。
+♦解决方案：
+1. 开发基于KMIP的密钥管理工具：创建，销毁并且获得密钥。
+2. Nova卷加载卸载时加解密。
+3．Cinder卷加密：当cinder创建卷时，首先根据卷id创建key并且存放进keystone.
+当Cinder将卷备份至Data Domain时（e.g.，通过iSCSI进行Cinder备份），从keystone
+获得key,并且对volume解密。Data Domain最终对该卷加密。
+2013.2～2013.10      Data Domain自动化日志分析和漏洞发现
+♦问题：研究并设计漏洞自动化分析工具 。根据工程经验，70%漏洞重复出现并且有特征。
+如果日志和某个特征匹配，我们可以快速发现该漏洞。而如果日志不能匹配特征，分析
+日志，产生并添加新的漏洞特征。
+♦  解决方案：
+1. 设计并开发后端系统，包括日志解析parser(JAVA),数据库(GreenPlum),搜索引
+擎(JAVA)来匹配特征
+2. 设计并开发推荐引擎来推荐升级产品。
+四、 宾州州立大学
+2014.8～2018.3        基于深度学习方法检测ROP
+♦   基于Tensorflow，开发自动检测工具利用深度学习区分ROP攻击与程序正常执行。
+2014.8～2018.3     内存漏洞定位方法
+♦ 开发自动调试工具利用crash程序的process tracing(PT)增强core dump分析，并
+且用逆执行来定位内存漏洞。
+♦ 开发CREDAL,自动化调试工具利用crash程序的源代码来增强core dump分析，并
+且定位内存漏洞。
+2014.8～2018.3       抵抗0-day攻击的自适应防御
+♦ 开发基于Dyninst页粒度自适应随机化工具。该工具可以有效抵抗JIT-ROP。
+♦ 开发基于GCC的数据结构粒度的自适应随机化工具SALADS。该工具可以有效抵御
+数据结构操作攻击，包括rootkit.
+发表论文和专利
+著作
+[BC1] Ping Chen with other colleagues, “MTD Techniques for Memory Protection against Zero-Day At- tacks,” In S. Jajodia, G. Cybenko, P. Liu, C. Wang, and M. Wellman (Eds.), Adversarial and Uncertain Reasoning for Adaptive Cyber Defense, Springer 2019. 
+[BC2] Ping Chen with other colleagues, “Reinforcement Learning for Adaptive Cyber Defense against Zero-Day Attacks,” In S. Jajodia, G. Cybenko, P. Liu, C. Wang, and M. Wellman (Eds.), Adversarial and Uncertain Reasoning for Adaptive Cyber Defense, Springer 2019 
+[BC3] EMC Company (Ping Chen with other EMC colleagues), “Software Defined Data Center Tech- nology and RApplication,” in Electronic Industry Press, China, 2014.12. “Chapter Orchestration and Management.” 
+[BC4] EMC Company (Ping Chen with other EMC colleagues), “Big Data Strategy, Technology and Ap- plication” in Electronic Industry Press, China, 2013.5. “Chapter 3.2.4 Security of Cloud Infrastructure: New Challenges.” (The Outstanding Publication Award in 2014). 
+二、 代表论文
+[R1] Luan hao, Xue Tan, Zhiheng Li, Jun Dai, Xiaoyan Sun, Ping Chen *. Dataset Reduction and Watermark Removal via Self-supervised Learning for Model Extraction Attack. NDSS 2026 CCF-A会议
+[R2] Xue Tan, Luan hao, Mingyu Luo, Zhuyang Yu, Jun Dai ,Xiaoyan Sun Ping Chen *. Was My Data Used for Training? Membership Inference in Open-Source LLMs via Neural Activations. NDSS 2026 CCF-A 会议
+[R3] Xue Tan, Hao Luan, Mingyu Luo, Xiaoyan Sun, Ping Chen*, Jun Dai. RevPRAG: Revealing Poisoning Attacks in Retrieval-Augmented Generation through LLM Activation Analysis. EMNLP 2025 CCF-B 会议
+[R4] Yu Liu, Ping Chen*. Measurement of Intrinsic Safety Resilience in Perceived Decision Systems. Science China Technological Sciences. 2025 CCF-A 期刊
+[R5] Yin Cai, Ping Chen*. MIRAGE: Exploring How Large Language Models Perform in Complex Social Interactive Environments. ACL 2025. CCF-A. 会议
+[R6] Lingyun Zhang,Yu Xie,Yanwei Fu, Ping Chen*. Concept Replacer: Replacing Sensitive Concepts in Diffusion Models via Precision Localization. CVPR 2025. CCF-A 会议
+[R7] Xue Tan, Ping Chen*. FedRAB: Robust Federated Learning Against Backdoor Attacks Based on Collaborative Defense with Smoothing. Journal of Computer Security(JCS), 2025 CCF-B 期刊
+[R8] Wei Jin, Ping Chen*. HuntFUZZ: Enhancing Error Handling Testing through Clustering Based Fuzzing. Journal of Computer Security(JCS), 2025 CCF-B 期刊
+[R9] Wei Jin, Ping Chen*. SQLaser: Detecting DBMS Logic Bugs with Clause-Guided Fuzzing. Journal of Computer Security(JCS), 2025 CCF-B 期刊
+[R10] Wei Jin，Ping Chen*. DSLR--: A Low-Overhead Data Structure Layout Randomization for Defending Data-Oriented Programming. Journal of Computer Security(JCS), 2024 CCF-B 期刊
+[R11] Lan Zhang, Peng Liu, Yoon-Ho Choi, Ping Chen. Semantics-preserving Reinforcement Learning Attack Against Graph Neural Networks for Malware Detection. TDSC 2022.CCF-A 期刊
+[R12] Zhisheng Hu, Ping Chen*, Minghui Zhu, Peng Liu. A co-design adaptive defense scheme with bounded security damages against Heartbleed-like attacks. TIFS. 2021. CCF-A 期刊
+[R13] Xusheng Li, Zhisheng Hu, Haizhou Wang, Yiwei Fu, Ping Chen, Minghui Zhu, Peng Liu. DEEPRETURN: A Deep Neural Network Can Learn How to Detect Previously-Unseen ROP Payloads without Using Any Heuristics. Journal of Computer Security, 2020. CCF-B 期刊
+[R14] Zhisheng Hu, Minghui Zhu, Ping Chen, Peng Liu. On convergence rates of game theoretic reinforcement learning algorithms. Automatica. 2019. CCF-A 期刊
+[R15] Jun Xu, DongLiang Mu, Xinyu Xing, Peng Liu, Ping Chen, Bing Mao. POMP: Postmortem Program Analysis with Hardware-Enhanced Post-Crash Artifacts. In Proceedings of the 26th USENIX Security Symposium (USENIX Security), Vancouver, Canada, August 2017. CCF-A会议
+[R16] Ping Chen, Jun Xu, Zhisheng Hu, Xinyu Xing, Minghui Zhu, Bing Mao, Peng Liu. What You See is Not What You Get! Thwarting Just-in-Time ROP with Chameleon. In Proceedings of the 47th Annual IEEE/IFIP International Conference on Dependable Systems and Networks. (DSN 2017), June 2017. CCF-B  会议
+[R17] Deng Liang, Peng Liu, Jun Xu, Ping Chen, Qingkai Zeng. Dancing with Wolves: Towards Practical Event-driven VMM Monitoring. In Proceedings of 13th ACM SIGPLAN/SIGOPS International Conference on Conference on Virtual Execution Environments (VEE 2017), 2017. CCF-B 会议
+[R18] Jun Xu, Dongliang Mu, Ping Chen, Xinyu Xing, Peng Liu. CREDAL: Towards Locating a Memory Corruption Vulnerability with Your Core Dump. In Proceedings of 23rd ACM Conference on Computer and Communications Security (CCS 2016), Vienna, Austria, October, 2016. CCF-A 会议
+[R19] Ping Chen, Jun Xu, Zhiqiang Lin, Bing Mao, Peng Liu. A Practical Approach for Adaptive Data Structure Layout Randomization. In Proceedings of the 20th European Symposium on Research in Computer Security. (ESORICS 2015), Vienna, Austria, September 2015. EI CCF-B 会议
+[R20] Rui Wu, Ping Chen, Peng Liu, Bing Mao. System Call Redirection: A Practical Approach to Meeting Real-world VMI needs. In Proceedings of the 44th Annual IEEE/IFIP International Conference on Dependable Systems and Networks. (DSN 2014), Atlanta, Georgia USA, June 2014. EI CCF-B. 会议
+三、其他论文
+[O1] Nanqing Luo, Haizhou Wang, Zhilong Wang, Lan Zhang, Peng Liu, Ping Chen. Deep Learning Assisted Reverse Engineering: Recognizing Encryption Loops in Ransomware. TrustCom 2025.
+[O2] Ping Chen, Jin Wei, Zhuyang Yu, Jiwei Chen. Key-area Cyberspace Mimic Defense Against Data-Oriented Attacks S&S 2025
+[O3] Yue Wu, Yu Liu，Ping Chen*. Finding Bayesian Nash Equilibrium In DHR. S&S 2024
+[O4] Chen Zhong, Qiwei Ni, Ping Chen. Predicting Analysts' Needs for Explainable Artificial Intelligence (XAI) in Cybersecurity Analysis.AMCIS 2023.
+[O5] Jiameng Shi, Le Guan, Wenqiang Li, Dayou Zhang, Ping Chen. HARM: Hardware-assisted Continuous Re-randomization for Microcontrollers. EuroS&P 2022
+[O6] Ping Chen, Zhisheng Hu, Jun Xu, Minghui Zhu, Peng Liu. Feedback Control Can Make Data Structure Layout Randomization More Cost-Effective under Zero-day Attacks. Cybersecurity. 2019.
+[O7] Ping Chen, Hai Xiao, et,al. DROP: Detecting Return-Oriented Programming. 5th International Conference on Information Systems Security(ICISS 2009), Kolkata, India, December 2009, pages: 163- 177
+[O8] Ping Chen, Xiao Xing, et,al. Automatic Construction of Jump-Oriented Programming (on the x86), 6th ACM Symposium on Information, Computer and Communications Reliability(ASIACCS 2011). Hong Kong, March, 2011, pages: 20-29
+[O9] Ping Chen, Dongyan Xu, et,al. CloudER: A Framework for Automatic Software Vulnerability Location and Patching in the Cloud. In Proceedings of the 7th ACM Symposium on Information, Computer and Communications Reliability(ASIACCS 2012). Seoul, Korea, May 2012. 
+[O10] Ping Chen, Yi Fang, et,al. JITDefender: A Defense Against JIT Spraying . 26th IFIP International Information Reliability Conference (SEC 2011). Lucerne, Switzerland, June, 2011
+[O11] Ping Chen, Xiao Xing, et,al. Efficient Detection of the Return-Oriented Programming Malicious Code. 6th International Conference on Information Systems Reliability(ICISS 2010), Gujarat, India, December 2010, pages 140-155. 
+[O12] Ping Chen, Xiao Xing, et,al. Return-oriented Rootkit without Returns (on the x86) .12th In- ternational Conference on Information and Communications Security(ICICS 2010), Barcelona, Spain, December 2010, pages 140-155. 
+[O13] Ping Chen, Hao Han, et,al. IntFinder: Automatically Detecting Integer Bugs in x86 Binary Program. 11th International Conference on Information and Communications Reliability(ICICS 2009), Beijing, China, December 2009, pages 336-345. 
+[O14] Ping Chen, Yi Wang, et,al. BRICK: A Binary Tool for Run-time Detecting and Locating Integer- based Vulnerability. ARES 2009, Fukuoka, Japan, March 2009, pages 208-215, acceptance rate = 25%. EI. 
+[O15] Feifei Wang, Ping Chen, et,al. RandHyp: Preventing via Xen Hypercall Interface. 27th IFIP International Information Reliability Conference (SEC 2012). 
+[O16] Rui Wu, Ping Chen, et,al. RIM: a Method to Defend JIT Spraying. The 7th ARES conference (ARES 2012). 143-148. 
+[O17] Yi Wang, Zhi Xin, Ping Chen, et,al. iMOP: An In-Memory Object Protector. Second DSN Workshop CATARS, July 2009. EI. CCF-B. 
+[O18] Ping Chen, Rui Wu, Bing Mao. JITSafe: A framework against JIT Spraying . Journal of IET Information Reliability. 2012.12. 
+[O19] Ping Chen, Xiao Xing, et al. Protecting Software Based on Data Structure Randomization. Journal of Computer Research and Development, Vol 48(12), 2011 (in Chinese) EI. 
+[O20] Ping Chen, Hao Han, et al.Detecting Integer Bugs Based on Static and Dynamic Program Analysis. Chinese Journal of Electronics, Vol 38(8), pp 1741-1747, 2010 (in Chinese) EI. 
+[O21] Xiao Xing, Ping Chen et al. BIOP: Automatic Construction of ROP without Return. Chinese Journal of Computers. 2012 ( in Chinese) EI. 
+[O22] Guodong Wang, Ping Chen, et al. Automatic Generation of Attach-based Signature. Chinese Journal of Computer Science, Vol 39(3), pp 118-123. 2012 (in Chinese) EI. 
+[O23] Hao Wang, Ping Chen, et al. Graph Matching and Linked List Based Kernel Data Structures Forensic Technology. Telecom Market. 2012(2) (in Chinese) EI. 
+[O24] Hai Xiao, Ping Chen, et al. Detecting and Locating Integer Bugs Based on runtime type Analysis. Chinese Journal of Computer Science, Vol 38(1), pp 140-144. 2011 (in Chinese) EI. 
+[O25] Yi Wang, Ping Chen, et,al. Traffic Controller: A Practical Approach to Block Network Covert Timing Channel. ARES 2009, Fukuoka, Japan, March 2009, pages 349-354. EI. 
+[O26] Zhisheng Hu, Ping Chen, Y. Lu, Minghui Zhu and Peng Liu, “Towards a science for adaptive defense: Revisit server protection,” Proc. IEEE International Conference on Collaboration and Internet Computing (CIC 2016), Pittsburgh, November 2016. EI. 
+四、专利
+[P1]陈平等 一种人工智能场景下的人机交互方法及相关设备 中国 202510794441.1
+[P2]陈平 一种工业控制系统多模态动态弹性防御方法：202511273928.1
+[P3]陈平 一种工业控制系统协议级攻击链的防护方法 中国202511277996.5
+[P4] 陈平等 一种面向星载固件的基于ARM架构的QNX固件仿真方法 中国 202410373751.1
+[P5] 陈平等 一种非侵入式的并行模糊测试框架 中国 202410326755.4
+[P6] 陈平等 一种基于状态保存恢复的协议漏洞分析系统 中国 202410429043.5
+[P7] 陈平等 一种基于虚拟化技术的多线程模糊测试调度算法 中国 202410555697.2
+[P8] 陈平等 一种基于CPU中断的多线程模糊测试调度算法 中国 202410643485.X
+[P9] 陈平等 一种基于联合防御框架的可抵抗后门攻击的鲁棒性联邦学习方案 中国 202410326756.9
+[P10] 陈平等 一种物联网设备固件更新漏洞的自动化检测方法 中国 202410094201.6
+[P11] 陈平等 基于生成式人工智能的代码逻辑漏洞发现方法 中国 202311692039.X
+[P12] 陈平等 一种基于策略梯度算法的车联网拟态防御系统 中国 202311642683.6
+[P13 ] Ping Chen et.al. Method and apparatus for handling bugs. US Patent 2015/0178634 A1 
+[P14 ] Ping Chen. A method of Anti-fraud Bot Detection System. No.202010008410.6 
+[P15] Ping Chen. A method of vulnerability detection based on dynamic and static analysis. No.201911005049.5. 
+[P16] Ping Chen, Ziye Yang et.al. Hypervisor utilization to reduce bootstrap time for data storage system . US Patent 9,354,896. 
+[P17] Ping Chen, Kai Chen et.al. System for Discovering Bugs Using Interval Algebra Query Language . US Patent 9,092,563. 
+[P18] Ping Chen, Yi Wang, et al. A Devise for Detecting and Locating the Signedness Error and Assignment Truncation. No.200910025884.5, 2009-3-12. 
+[P19 ] Ping Chen, Yi Wang, et al. A Devise for Detecting and Locating the Integer Overflow. No. 200910025885.X, 2009-3-12. 
+[P20 ] Ping Chen, Kai Chen, et al. SET-BASED BUGS DISCOVERY SYSTEM VIA SQL QUERY. US Patent 20160314035, 2016-04-19. 
+[P21 ] Ping Chen et al. Method to input content in a structured manner with real-time assistance and validation. US Patent 9317189, 2016-04-19. 
+[P22] Ping Chen et al. A comprehensive static analysis system of Android privilege escalation attack. No.201510135052.4, 2015-03-25. 
+[P23 ] Ping Chen et al. Software security enhancement method based on binary rewriting and dynamic randomization. No. 201510740210.9, 2016-02-17. 
+[P24] Ping Chen et al. Real time detection system of binary program memory corruption attack. No.200910026449.4, 2009-09-03. 
+主持&参与项目
+[P1] 网络空间内生安全机制与评估方法 国家重点研发项目 200万 课题负责人 2022-2025 在研
+[P2] 智能驾驶系统功能安全与网络安全一体化保障技术 398万 课题负责人 2024-2026 在研
+[P3] 基于***仿真调试检测技术研究 JF项目 248万 2023-2025 主持 在研
+[P4] 主流***挖掘与利用 JF项目 200万 2024-2026 主持 在研
+[P5] 量子+智能网联汽车 工信部揭榜挂帅项目 3000万 2025-2028 主持 在研
+[P6] 人工智能颠覆性应用的社会影响和信息治理研究 国家社科重大课题 10万 2023-2027 主持 在研
+[P7] 云边协同智能工业控制系统主动防御建模 国家重点研发项目 100万 参与 2022-2025 在研
+[P8] 抗网络扫描探测与识别技术 国家重点研发项目 100万 参与 2022-2025 在研
+[P9] 软件开源治理技术公共服务平台建设. 省部级项目 100万 主持 2024-2026 在研
+[P10] 面向核能领域的一体化网络安全综合防控平台 省部级项目 500万 主持 2024-2026 在研
+[P11] 韧性评估咨询服务项目（二期）.华为项目 80万 主持 2025-2026 在研
+[P12] 推动上海海洋生态保护修复研究 省部级项目 8万 主持 2025-2026 在研
+[P13] 基于状态保存/恢复的协议漏洞分析系统. 八院项目 30万 主持 2023-2024 结项
+[P14] 基于程序分析的欺诈类APP自动化特征提取和识别. 支付宝项目 60万 主持 2022-2023 结项
+[P15] 定向模糊测试技术研究. 华为项目 78万 主持 2023-2024 结项
+[P16] 针对标准及小型鸿蒙设备的漏洞挖掘技术研究项目 华为项目 68万 主持 2023-2024 结项
+[P17] 面向高封闭性终端的新型模糊测试技术研究服务 电网项目 68万 主持 2022-2024 结项
+[P18] 韧性（内生安全）咨询采购项目 华为项目 68万 主持 2023-2024 结项
+[P19] 生成式人工智能加速发展对企业数据价值实现的影响机理及对策研究 国家社科基金一般项目 5万 参与 2026-2028 在研
+[P20] Bot Detection System, JD.com American Technologies Corp & Duke University, USA, 2018-2020 
+50,000USD 
+[P21] Bot Detection System, JD.com American Technologies Corp & Duke University, USA, 2018-2020 
+50,000USD 
+[P22] Research on Defense against Memory Leackage Attacks, Granted by Nanjing University, China, 2015.4- 2017.4 30,000RMB 
+[P23] Big Data Analysis based Enterprice Intelligent Anti-fraud System, Granted by Nanjing Gov 321 talent, 2017-now 1000,000RMB 
+[P24] Intelligent Automatic Source Code Audit System, Granted by Shanghai Gov 3310 talent, 2018-now 1000,000RMB 
+[P25 ] Moving Target Defense, Granted by ARO W911NF-13-1-0421 (MURI),2014-2018 3000,000USD 
+[P26] Towards Obfuscation-Resilient Software Plagiarism Detection, NSF 1320605, 2013-2017, 500,000USD 
+[P27] Towards Agile and Privacy-Preserving Cloud Computing, NSF CNS-1422594, 2014-2018, 250,000USD 
+[P28] Towards Locating Memory Corruption Vulnerability with Core Dump, NSF SaTC-1718459, 2017-2021, 500,000USD 
+[P29] Towards Virtual Distributed Env in a Shared Distributed Infra, NSF-0546173, 2006-2012, 400,000USD 
+[P30 ] OpenVMI: A software Infrastructure for Virtual Machine Investigation, NSF-0855141, 2009-2014, 
+255,000USD 
+[P31 ]API-based Static Instrumentation and Malware Detectionon Android,CNSF61272078,2013-2016,800,000RMB 
+[P32 ]Research on the software enhancement based on Program Analysis,CNSF60773171,2007-2010,300,000RMB 
+[P33 ] Research on the realtime online Remediation against Malicious Attack, 863 (2007AA01Z448),2007- 2010,300,000RMB 
+[P34]Data Structure Randomization and Kernel Rootkit Protection,CNSF61073027,2010-2013,300,000RMB
+[P35 ]Service Quality and Protection In Pervasive Computing Environment,973(2009CB320705),10,000,000RMB
+[P36 ] Research on Internet-oriented Software Method and Technology, CNSF 6102106, 300,000RMB 
+[P37 ] Software Fault Tolerance and Attack Defense based on Software Analysis, Jiangsu NSF BK2007136, 300,000RMB 
+学生奖励
+2023.10第六届强网车联网安全精英挑战赛上获得第二名。
+2024.5获得创安杯智能汽车信息安全CTF比赛第一名。
+2024.11 第七届强网车联网安全精英挑战赛上获得第一名。
+2025.5 英特尔人工智能创新应用大赛国际赛 进入决赛。
+2025.9 第三届全国博士后创新创业大赛入围 进入全国总决赛
+教学
+2022-2024 计算机原理 本科
+2022-2024 大规模分布式系统 研究生
+2024-2026 走近人工智能 本科
+2025-2026 控制论、信息论、系统论基础 本科（负责复旦大学首次开课）
+2025年   本科人工智能班导师，腾飞书院导师
+学生指导
+正在指导：15名博士，6名硕士，4名本科，2名博士后
+已经毕业：1名博士，7名硕士，2名本科
+学术任职
+Guest Editor MPDI Mathematics 2025-2026
+Program Committee AAAI 2026
+Reviewer JCS 2023-至今
+Reviewer 计算机学报 2025
+Reviewer 中国科学 2025
+Reviewer MM 2025
+Reviewer CVPR 2025
+Program Committee CCS Poster，2025
+Program Committee CCS MTD, 2016-2017Reviewer RAID, 2014Reviewer CCS, 2015Reviewer ESORICS, 2015-2016Reviewer IEEE TDSC, TIFS, Automatica, 2014-2017 
+Reviewer IET Information Security, 2012-present 

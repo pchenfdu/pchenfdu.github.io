@@ -1,67 +1,368 @@
-<!doctype html>
-<html>
-  <head>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Leonidwang.github.io by leonidwang</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>陈平 | 智能汽车与AI安全研究</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="brand">
+            <span class="brand-mark">PC</span>
+            <div>
+                <h1>陈平</h1>
+                <p>复旦大学大数据研究院 · 研究员 / 博导</p>
+            </div>
+        </div>
+        <nav>
+            <a href="#about">简介</a>
+            <a href="#research">研究方向</a>
+            <a href="#experience">经历</a>
+            <a href="#awards">荣誉</a>
+            <a href="#projects">项目</a>
+            <a href="#publications">论文</a>
+            <a href="#teaching">教学</a>
+            <a href="#students">学生</a>
+            <a href="#service">学术服务</a>
+            <a href="#contact">联系</a>
+        </nav>
+    </header>
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <script src="javascripts/scale.fix.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <main>
+        <section id="about" class="hero">
+            <div>
+                <h2>智能汽车安全与AI内生安全</h2>
+                <p>
+                    陈平，复旦大学大数据研究院研究员、博士生导师，国家级青年人才计划入选者。
+                    长期从事系统与软件安全、智能网联汽车安全、AI安全与内生安全的研究工作，
+                    主持国家重点研发计划、工信部揭榜挂帅等多项重大项目，在CCS、USENIX Security、
+                    CVPR、ACL、Automatica 等国际顶级期刊与会议发表论文 50 余篇。
+                </p>
+                <div class="contact-grid">
+                    <div>
+                        <h3>联系方式</h3>
+                        <p><strong>电话：</strong>18201846876（中国）</p>
+                        <p><strong>邮箱：</strong><a href="mailto:chenping19850429@163.com">chenping19850429@163.com</a></p>
+                    </div>
+                    <div>
+                        <h3>办公</h3>
+                        <p>复旦大学大数据研究院</p>
+                        <p>上海市杨浦区淞沪路 2005 号</p>
+                    </div>
+                    <div>
+                        <h3>基本信息</h3>
+                        <p><strong>出生：</strong>1985 年 4 月 29 日</p>
+                        <p><strong>籍贯：</strong>中国 · 汉族</p>
+                        <p><strong>主页：</strong><a href="#contact">科研合作欢迎联系</a></p>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header class="without-description">
-        <h1>Leonidwang.github.io</h1>
-        <p></p>
-        <p class="view"><a href="https://github.com/leonidwang">View the Project on GitHub <small>leonidwang</small></a></p>
-        <ul>
-          <li class="single"><a href="https://github.com/leonidwang/leonidwang.github.io">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
-      <section>
-        <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
+        <section id="research">
+            <h2>研究方向</h2>
+            <div class="card-grid">
+                <article class="card">
+                    <h3>大模型与AI安全</h3>
+                    <ul>
+                        <li>多样化定向模糊测试工具集与内生安全评估</li>
+                        <li>多模态生成内容安全审查与水印技术</li>
+                        <li>RAG 投毒防御与大模型能力边界探索</li>
+                    </ul>
+                </article>
+                <article class="card">
+                    <h3>智能网联汽车安全</h3>
+                    <ul>
+                        <li>ADAS/TBOX 内生安全防御架构设计</li>
+                        <li>网络韧性评估与一体化安全保障体系</li>
+                        <li>智能驾驶系统功能安全与网络安全协同</li>
+                    </ul>
+                </article>
+                <article class="card">
+                    <h3>系统与软件安全</h3>
+                    <ul>
+                        <li>自适应防御与漏洞挖掘技术</li>
+                        <li>云计算与虚拟化环境安全</li>
+                        <li>跨平台协议漏洞分析与动态防护</li>
+                    </ul>
+                </article>
+                <article class="card">
+                    <h3>数据与隐私保护</h3>
+                    <ul>
+                        <li>大规模风控系统与设备指纹技术</li>
+                        <li>数据全生命周期安全治理与合规</li>
+                        <li>隐私保护、脱敏及去标识化策略</li>
+                    </ul>
+                </article>
+            </div>
+        </section>
 
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
+        <section id="experience" class="two-column">
+            <div>
+                <h2>学术任职</h2>
+                <ul class="timeline">
+                    <li>
+                        <div class="timeline-date">2021 - 至今</div>
+                        <div class="timeline-content">
+                            <strong>复旦大学大数据研究院</strong><br>
+                            研究员 · 博士生导师 · 国家级人才
+                            <ul class="timeline-notes">
+                                <li>创建内生安全实验室，聚焦智能汽车与 AI 安全</li>
+                                <li>主持国家重点研发计划、工信部揭榜挂帅等重大项目</li>
+                                <li>与华为、上汽、吉利、蚂蚁等开展内生安全联合攻关</li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="timeline-date">2014 - 2018</div>
+                        <div class="timeline-content">
+                            <strong>宾州州立大学（美国）</strong><br>
+                            博士后研究员（软件与系统安全）
+                        </div>
+                    </li>
+                    <li>
+                        <div class="timeline-date">2012 - 2014</div>
+                        <div class="timeline-content">
+                            <strong>EMC（美国）</strong><br>
+                            高级研究员（云计算与虚拟化安全）
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <h2>产业与管理经验</h2>
+                <ul class="timeline">
+                    <li>
+                        <div class="timeline-date">2018 - 2021</div>
+                        <div class="timeline-content">
+                            <strong>京东硅谷研发中心（美国）</strong><br>
+                            资深安全架构师 / 数据与风控安全负责人，带领 60+ 人团队
+                            <ul class="timeline-notes">
+                                <li>构建数据全生命周期安全与合规体系，实现零业务影响</li>
+                                <li>主导设备指纹、账号安全、反欺诈等核心风控能力建设</li>
+                                <li>推进水印、DLP、隐私合规与 GDPR/ISO27001 等国际认证</li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="timeline-date">2010 - 2011</div>
+                        <div class="timeline-content">
+                            <strong>普渡大学（美国）</strong><br>
+                            联合培养博士生，聚焦云计算安全
+                        </div>
+                    </li>
+                </ul>
+                <h3>教育背景</h3>
+                <ul class="timeline compressed">
+                    <li><span class="timeline-date">2007 - 2012</span><span class="timeline-content">南京大学 计算机软件与理论 博士</span></li>
+                    <li><span class="timeline-date">2003 - 2007</span><span class="timeline-content">南京航空航天大学 信息安全 学士</span></li>
+                </ul>
+            </div>
+        </section>
 
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
+        <section id="awards">
+            <h2>代表性荣誉</h2>
+            <div class="card">
+                <ul class="major-list">
+                    <li>2025 · “面向智能网联汽车安全的内生安全风险评估技术研究” 入选 2024 年度网络和数据安全重大科技进展奖（排名第 1）</li>
+                    <li>2024 · 国家启明青年国家人才计划入选者</li>
+                    <li>2024 · “多样化定向模糊测试工具集” 入选上海市网络安全产业创新攻关成果目录（排名第 1）</li>
+                    <li>2024 · 大模型“复保智库”入选上海市大模型产品名录</li>
+                    <li>2023 · 主持国家重点研发计划课题《智能驾驶系统功能安全与网络安全一体化保障技术》</li>
+                    <li>2022 · 主持国家重点研发计划课题《网络空间内生安全机制与评估》</li>
+                    <li>2021 · 上海市领军人才</li>
+                </ul>
+            </div>
+        </section>
 
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
+        <section id="projects">
+            <h2>科研与产业项目</h2>
+            <div class="card-grid">
+                <article class="card">
+                    <h3>复旦大学内生安全实验室</h3>
+                    <p>
+                        从 0 到 1 搭建复旦内生安全实验室，团队涵盖本硕博 30+ 人，
+                        主持 18 项国家级与省部级项目，与华为、上汽、吉利、蚂蚁等 10+ 家企业合作，
+                        累计合作经费近 2000 万元。
+                    </p>
+                </article>
+                <article class="card">
+                    <h3>国家重点研发计划</h3>
+                    <ul>
+                        <li>智能驾驶系统功能安全与网络安全一体化保障技术（课题负责人）</li>
+                        <li>网络空间内生安全机制与评估（课题负责人）</li>
+                    </ul>
+                </article>
+                <article class="card">
+                    <h3>产业协同创新</h3>
+                    <ul>
+                        <li>上海市智能网联汽车协同创新中心</li>
+                        <li>上海市核能核电协同创新中心</li>
+                        <li>华为、上汽、吉利、蚂蚁联合攻关</li>
+                    </ul>
+                </article>
+            </div>
+            <details class="details-block">
+                <summary>查看更多项目（国内外重大项目与合作）</summary>
+                <div class="details-columns">
+                    <div>
+                        <h4>主持项目</h4>
+                        <ul>
+                            <li>量子+智能网联汽车 工信部揭榜挂帅项目，主持，2025-2028</li>
+                            <li>面向核能领域的一体化网络安全综合防控平台，主持，2024-2026</li>
+                            <li>软件开源治理技术公共服务平台建设，主持，2024-2026</li>
+                            <li>基于状态保存/恢复的协议漏洞分析系统（八院），主持，2023-2024</li>
+                            <li>定向模糊测试技术研究（华为），主持，2023-2024</li>
+                            <li>针对鸿蒙设备的漏洞挖掘技术研究（华为），主持，2023-2024</li>
+                            <li>面向高封闭性终端的新型模糊测试技术研究（国家电网），主持，2022-2024</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4>参与/合作</h4>
+                        <ul>
+                            <li>网络空间内生安全机制与评估方法，国家重点研发项目，课题负责人，2022-2025</li>
+                            <li>云边协同智能工业控制系统主动防御建模，国家重点研发，参与，2022-2025</li>
+                            <li>抗网络扫描探测与识别技术，国家重点研发，参与，2022-2025</li>
+                            <li>Data Structure Randomization and Kernel Rootkit Protection，国家自然科学基金</li>
+                            <li>Moving Target Defense，ARO MURI 项目，2014-2018</li>
+                            <li>OpenVMI: Virtual Machine Investigation Infrastructure，NSF-0855141</li>
+                        </ul>
+                    </div>
+                </div>
+            </details>
+        </section>
 
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
+        <section id="publications">
+            <h2>代表性论文</h2>
+            <div class="card">
+                <ul class="major-list">
+                    <li>Ouyang Huang, Ping Chen et al. <em>VEH: Safety-Critical Controller for Autonomous Driving.</em> USENIX Security 2024.</li>
+                    <li>Chen Zhong, Qiwei Ni, Ping Chen. <em>Predicting Analysts' Needs for Explainable AI in Cybersecurity Analysis.</em> AMCIS 2023.</li>
+                    <li>Jiameng Shi, Le Guan, Wenqiang Li, Dayou Zhang, Ping Chen. <em>HARM: Hardware-assisted Continuous Re-randomization for Microcontrollers.</em> IEEE EuroS&P 2022.</li>
+                    <li>Ping Chen, Zhisheng Hu, Jun Xu, Minghui Zhu, Peng Liu. <em>Feedback Control Can Make Data Structure Layout Randomization More Cost-Effective under Zero-day Attacks.</em> Cybersecurity, 2019.</li>
+                    <li>Ping Chen, Hai Xiao et al. <em>DROP: Detecting Return-Oriented Programming.</em> ICISS 2009.</li>
+                </ul>
+            </div>
+            <details class="details-block">
+                <summary>完整论文列表</summary>
+                <ul class="plain-list">
+                    <li>Automatic Construction of Jump-Oriented Programming (ASIACCS 2011)</li>
+                    <li>CloudER: 自动化云环境漏洞定位与修复（ASIACCS 2012）</li>
+                    <li>JITDefender: A Defense Against JIT Spraying (IFIP SEC 2011)</li>
+                    <li>IntFinder: Automatically Detecting Integer Bugs in x86 Binary (ICICS 2009)</li>
+                    <li>JITSafe: A framework against JIT Spraying (IET Information Security, 2012)</li>
+                    <li>Protecting Software Based on Data Structure Randomization (计算机研究与发展, 2011)</li>
+                    <li>更多信息请联系陈平获取最新论文列表。</li>
+                </ul>
+            </details>
+        </section>
 
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
+        <section id="patents">
+            <h2>代表性专利</h2>
+            <div class="card-grid">
+                <article class="card">
+                    <ul>
+                        <li>一种人工智能场景下的人机交互方法及相关设备（中国，202510794441.1）</li>
+                        <li>一种工业控制系统多模态动态弹性防御方法（中国，202511273928.1）</li>
+                        <li>一种物联网设备固件更新漏洞的自动化检测方法（中国，202410094201.6）</li>
+                    </ul>
+                </article>
+                <article class="card">
+                    <ul>
+                        <li>Method and apparatus for handling bugs（US 2015/0178634 A1）</li>
+                        <li>System for Discovering Bugs Using Interval Algebra Query Language（US 9,092,563）</li>
+                        <li>Hypervisor utilization to reduce bootstrap time for data storage system（US 9,354,896）</li>
+                    </ul>
+                </article>
+            </div>
+            <details class="details-block">
+                <summary>查看更多专利</summary>
+                <ul class="plain-list">
+                    <li>基于生成式人工智能的代码逻辑漏洞发现方法（中国，202311692039.X）</li>
+                    <li>基于状态保存恢复的协议漏洞分析系统（中国，202410429043.5）</li>
+                    <li>基于虚拟化技术的多线程模糊测试调度算法（中国，202410555697.2）</li>
+                    <li>Return-oriented Rootkit without Returns (ICICS 2010 对应技术专利)</li>
+                </ul>
+            </details>
+        </section>
 
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
+        <section id="teaching">
+            <h2>教学</h2>
+            <div class="card">
+                <ul class="major-list">
+                    <li>计算机原理（本科，2022-2024）</li>
+                    <li>大规模分布式系统（研究生，2022-2024）</li>
+                    <li>走近人工智能（本科，2024-2026）</li>
+                    <li>控制论、信息论、系统论基础（本科，2025-2026，首次开课）</li>
+                    <li>本科人工智能班导师、腾飞书院导师（2025）</li>
+                </ul>
+            </div>
+        </section>
 
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+        <section id="students">
+            <h2>学生培养与获奖</h2>
+            <div class="card-grid">
+                <article class="card">
+                    <h3>团队规模</h3>
+                    <p>在读学生：博士 15 名，硕士 6 名，本科 4 名，博士后 2 名</p>
+                    <p>已毕业：博士 1 名，硕士 7 名，本科 2 名</p>
+                </article>
+                <article class="card">
+                    <h3>学生获奖</h3>
+                    <ul>
+                        <li>2024 创安杯智能汽车信息安全 CTF 首奖</li>
+                        <li>2024 第七届强网车联网安全精英挑战赛冠军</li>
+                        <li>2023 第六届强网车联网安全精英挑战赛亚军</li>
+                        <li>2025 英特尔 AI 创新应用大赛国际赛决赛入围</li>
+                        <li>2025 全国博士后创新创业大赛总决赛入围</li>
+                    </ul>
+                </article>
+            </div>
+        </section>
 
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
+        <section id="service">
+            <h2>学术服务</h2>
+            <div class="card-grid">
+                <article class="card">
+                    <h3>编辑与程序委员会</h3>
+                    <ul>
+                        <li>Guest Editor, MDPI Mathematics (2025-2026)</li>
+                        <li>Program Committee, AAAI 2026</li>
+                        <li>Program Committee, CCS Poster 2025</li>
+                        <li>Program Committee, CCS MTD (2016-2017)</li>
+                    </ul>
+                </article>
+                <article class="card">
+                    <h3>期刊与会议评审</h3>
+                    <ul>
+                        <li>Reviewer, Journal of Computer Science (2023-)</li>
+                        <li>Reviewer, 计算机学报、中国科学、MM、CVPR (2025)</li>
+                        <li>Reviewer, IEEE TDSC, IEEE TIFS, Automatica (2014-2017)</li>
+                        <li>Reviewer, RAID (2014), CCS (2015), ESORICS (2015-2016)</li>
+                        <li>Reviewer, IET Information Security (2012-)</li>
+                    </ul>
+                </article>
+            </div>
+        </section>
 
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
+        <section id="contact" class="cta">
+            <h2>合作与交流</h2>
+            <p>
+                欢迎就智能汽车安全、AI 内生安全、系统与软件安全等方向展开科研与产业合作。
+                如果您希望加入实验室，或者探讨技术合作，请通过电子邮件联系。
+            </p>
+            <a class="cta-button" href="mailto:chenping19850429@163.com">联系陈平</a>
+        </section>
+    </main>
 
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-    </div>
-    <footer>
-      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    <footer class="site-footer">
+        <p>© 2025 陈平 · 复旦大学大数据研究院</p>
+        <p>最后更新：<span id="last-updated"></span></p>
     </footer>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    
-  </body>
+
+    <script>
+        document.getElementById('last-updated').textContent = new Date().toISOString().split('T')[0];
+    </script>
+</body>
 </html>
