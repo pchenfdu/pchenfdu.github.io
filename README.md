@@ -18,9 +18,9 @@ The repository is already wired to deploy to GitHub Pages via GitHub Actions:
 
 1. Ensure the repository is named `leonidwang.github.io` (or `<username>.github.io` for your account).
 2. In **Settings -> Actions -> General**, set *Workflow permissions* to **Read and write** and enable Actions for this repository.
-3. Push changes to `master` (or `main`). The included workflow `.github/workflows/deploy.yml` will build the site and publish the generated `_site/` output to the `gh-pages` branch.
-4. In **Settings -> Pages**, choose **Deploy from a branch**, select the `gh-pages` branch, and the `/ (root)` folder. Save the settings.
-5. Wait for the `Deploy site` workflow and the `pages-build-deployment` workflow to finish. The live site will be available at `https://leonidwang.github.io`.
+3. In **Settings -> Pages**, set *Build and deployment* **Source** to **GitHub Actions**.
+4. Push changes to `master` (or `main`). The workflow `.github/workflows/deploy.yml` builds the site, uploads it as a Pages artifact, and deploys it automatically.
+5. Once the `Deploy site` workflow finishes, the live site will be available at `https://leonidwang.github.io`.
 
 ## Customization Checklist
 
