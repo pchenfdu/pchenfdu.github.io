@@ -20,49 +20,31 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎️
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Ruby 💎
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: "3.3.5"
-          bundler-cache: true
-
-      - name: Setup Python 🐍
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.13"
-          cache: "pip"
-
-      - name: Setup Node.js 🟩
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
-      - name: Install system dependencies 🧰
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y imagemagick
+          python-version: "3.11"
 
       - name: Install Python dependencies
-        run: pip3 install --upgrade nbconvert
+        run: pip install --upgrade nbconvert
 
-      - name: Install Node dependencies
-        run: npm ci
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.1"
+          bundler-cache: true
 
-      - name: Install PurgeCSS
-        run: npm install -g purgecss
-
-      - name: Build site 🔧
+      - name: Install dependencies
         run: |
-          export JEKYLL_ENV=production
-          bundle exec jekyll build
-          purgecss -c purgecss.config.js
-          touch _site/.nojekyll
+          bundle config set --local path vendor/bundle
+          bundle install
 
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
+      - name: Build site
+        run: |
+          bundle exec jekyll build --trace --profile
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -76,6 +58,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy 🚀
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
