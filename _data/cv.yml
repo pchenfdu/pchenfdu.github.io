@@ -1,0 +1,124 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Name
+      value: Ping Chen
+    - name: Title
+      value: Professor & Doctoral Supervisor, Institute of Big Data, Fudan University
+    - name: Email
+      value: pchen@fudan.edu.cn
+    - name: Phone
+      value: +86 182-0184-6876
+    - name: Address
+      value: No. 2005 Songhu Road, Yangpu District, Shanghai, China
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Computer Software and Theory
+      institution: Nanjing University, China
+      year: 2007 -- 2012
+      description:
+        - Research focus on system and software security.
+    - title: Joint Ph.D. Training (Cloud Computing Security)
+      institution: Purdue University, USA
+      year: 2010 -- 2011
+      description:
+        - State-sponsored research on cloud security and virtualization.
+
+- title: Academic Appointments
+  type: time_table
+  contents:
+    - title: Professor & Doctoral Supervisor
+      institution: Institute of Big Data, Fudan University
+      year: 2021 -- Present
+      description:
+        - Established the Security Laboratory with 30+ researchers.
+        - Leads national talent initiatives and large-scale security programs.
+    - title: Postdoctoral Scholar
+      institution: Pennsylvania State University, USA
+      year: 2014 -- 2018
+      description:
+        - Research on adaptive defense, vulnerability discovery, and malware analysis.
+
+- title: Industry Leadership
+  type: time_table
+  contents:
+    - title: Senior Security Architect / Head of Data & Risk Control Security
+      institution: JD.com Silicon Valley R&D Center, USA
+      year: 2018 -- 2021
+      description:
+        - Built a 60+ member team delivering privacy compliance, watermarking, and anti-fraud capabilities.
+    - title: Senior Researcher
+      institution: EMC, USA
+      year: 2012 -- 2014
+      description:
+        - Led cloud computing security R&D for OpenStack network and storage virtualization.
+
+- title: Research Interests
+  type: list
+  contents:
+    - Intelligent connected vehicle security and resilience.
+    - Large-model security, red-teaming, and capability assessment.
+    - Endogenous cybersecurity architectures and adaptive defenses.
+    - Privacy-preserving risk analytics and data governance.
+
+- title: Representative Projects
+  type: time_table
+  contents:
+    - title: Intelligent Driving Functional Safety & Cybersecurity Assurance (National Key R&D Program)
+      year: 2024 -- 2026
+      description:
+        - Principal Investigator developing integrated safety-security assurance for intelligent driving systems.
+    - title: Cyberspace Endogenous Security Mechanisms & Assessment (National Key R&D Program)
+      year: 2022 -- 2025
+      description:
+        - Principal Investigator for unified risk assessment and intelligent offensive-defensive platforms.
+    - title: Diversified Directed Fuzzing Toolset
+      year: 2023 -- Present
+      description:
+        - Award-winning AI security toolkit for large-model ecosystems, deployed with municipal partners.
+
+- title: Honors & Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - 2024 Major Scientific & Technological Progress Award in Network and Data Security (Rank 1)
+    - year: 2024
+      items:
+        - National Talent Program Awardee
+        - Diversified Directed Fuzzing Toolset selected for Shanghai Cybersecurity Innovation Achievement Catalog (Rank 1)
+        - Fu Bao Think Tank recognized in Shanghai Large Model Product Catalog
+    - year: 2021
+      items:
+        - Shanghai Leading Talent
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Introduction to Artificial Intelligence (Undergraduate)
+      year: 2024 -- 2026
+    - title: Computer Principles (Undergraduate)
+      year: 2022 -- 2024
+    - title: Large-scale Distributed Systems (Graduate)
+      year: 2022 -- 2024
+    - title: Cybernetics, Information Theory, and Systems Theory (Undergraduate)
+      year: 2025 -- 2026
+
+- title: Student Mentoring
+  type: map
+  contents:
+    - name: Current Trainees
+      value: 15 Ph.D., 6 Master's, 4 Undergraduate, 2 Postdoctoral researchers
+    - name: Alumni
+      value: 1 Ph.D., 7 Master's, 2 Undergraduate graduates
+    - name: Team Honors
+      value: Chuang'an Cup Intelligent Vehicle Security CTF Champion 2024; Qiangwang IoV Security Challenge Champion 2024; Intel AI Innovation Application Finalist 2025
+
+- title: Academic Service
+  type: list
+  contents:
+    - Guest Editor, MDPI Mathematics (2025--2026)
+    - Program Committee, AAAI 2026; CCS Poster 2025; CCS MTD 2016--2017
+    - Reviewer for CVPR, ACM MM, Science China, Chinese Journal of Computers, IEEE TDSC/TIFS, Automatica, RAID, CCS, ESORICS, and IET Information Security.
