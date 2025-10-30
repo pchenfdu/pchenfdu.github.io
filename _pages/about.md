@@ -16,11 +16,6 @@ profile:
 selected_papers: false
 social: true
 
-announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
-
 latest_posts:
   enabled: false
 ---
@@ -80,9 +75,23 @@ Ping Chen is a Professor and Doctoral Supervisor at the Institute of Big Data, F
 
 ## Teaching and Mentorship
 
-- Courses: Computer Principles (UG, 2022-2024); Large-Scale Distributed Systems (Grad, 2022-2024); Introduction to Artificial Intelligence (UG, 2024-2026); Cybernetics, Information Theory, and Systems Theory (UG, 2025-2026).
-- Advising: 15 Ph.D., 6 Master's, 4 undergraduate, and 2 postdoctoral researchers; graduates include 1 Ph.D., 7 Master's, and 2 undergraduate alumni.
-- Student teams earned titles at the 2024 Chuang'an Cup Intelligent Vehicle Security CTF, the 2023 and 2024 Qiangwang IoV Security Elite Challenges, and reached finals in the 2025 Intel AI Innovation Application competition and the 2025 National Postdoctoral Innovation and Entrepreneurship competition.
+Ping Chen teaches a mix of undergraduate and graduate courses while mentoring interdisciplinary security teams.
+
+### Current Courses
+
+- **Introduction to Artificial Intelligence** -- Undergraduate core course focusing on trustworthy AI foundations (2024&ndash;2026).
+- **Cybernetics, Information Theory, and Systems Theory** -- Undergraduate special topics sequence launching in 2025.
+
+### Recent Courses
+
+- **Computer Principles** -- Undergraduate, 2022&ndash;2024.
+- **Large-scale Distributed Systems** -- Graduate, 2022&ndash;2024.
+
+### Mentorship & Program Leadership
+
+- Advisor for the Undergraduate AI Class and Tengfei College mentor (2025 cohort).
+- Supervises 15 Ph.D., 6 Master's, 4 undergraduate, and 2 postdoctoral researchers; graduates include 1 Ph.D., 7 Master's, and 2 undergraduate alumni.
+- Student teams earned titles at the 2024 Chuang'an Cup Intelligent Vehicle Security CTF, the 2023 and 2024 Qiangwang IoV Security Challenges, and reached the Intel AI Innovation Application finals in 2025.
 
 ## Service to the Community
 
