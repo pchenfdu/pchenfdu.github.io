@@ -54,6 +54,12 @@ Ping Chen is a Professor and Doctoral Supervisor at the Institute of Big Data, F
 - **Diversified Directed Fuzzing Toolset** (Lead, recognized in Shanghai Cybersecurity Innovation Catalog 2024).
 - **Fu Bao Think Tank LLM** (Lead, selected for Shanghai Large Model Product Catalog 2024).
 
+## Program Spotlights
+
+- **Fudan Security Laboratory** -- 30+ researchers across all levels deliver 18 national and provincial projects (~20M RMB) while partnering with SAIC, Geely, Huawei, Ant Group, and municipal authorities. The lab helped establish Shanghai's Nuclear Energy & Nuclear Power Collaborative Innovation Center and the Intelligent Connected Vehicle Collaborative Innovation Center.
+- **Intelligent Driving Safety & Security Assurance** -- A National Key R&D Program led by Ping Chen that unifies functional safety and cybersecurity. Outputs include endogenous ADAS/T-Box defense architectures, network resilience assessments, penetration exercises, and turnkey toolkits co-developed with OEMs such as SAIC, Geely, and Chery.
+- **Large Model Security & Directed Fuzzing Toolset** -- A heterogeneous AI security stack featuring multimodal directed fuzzing, watermarking for Fu Bao Think Tank deployments, and activation-level RAG poisoning defense. Recognized as a Rank-1 achievement in the 2024 Shanghai Cybersecurity Innovation and Breakthrough Catalog.
+
 <details markdown="1">
 <summary><strong>Additional Initiatives</strong></summary>
 
