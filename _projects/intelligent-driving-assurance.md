@@ -7,12 +7,12 @@ importance: 2
 category: work
 ---
 
-This National Key R&D Program project develops an integrated assurance framework that unifies functional safety and cybersecurity for intelligent driving platforms.
+This National Key R&D Program (PI: Ping Chen) builds an assurance framework that unifies functional safety and cybersecurity for intelligent driving platforms deployed by leading Chinese OEMs.
 
 Key threads include:
 
-- Endogenous security architecture design for ADAS and T-Box subsystems.
-- Network resilience assessment and autonomous remediation playbooks.
-- Full-stack validation from perception to actuation, targeting 0-day and APT-grade threats.
+- Endogenous security architecture design for ADAS and T-Box subsystems with coordinated safety-security requirements.
+- Network resilience assessment, penetration testing, and automated remediation playbooks for vehicle-to-cloud infrastructure.
+- Full-stack validation and zero-day preparedness spanning perception, decision, and actuation pipelines.
 
-The project produces open reference implementations and testing toolchains that are co-developed with automotive OEM partners for rapid adoption.
+Deliverables include open reference implementations, tailored testbeds, and policy toolkits that partners such as SAIC, Geely, and Chery can rapidly integrate into production programs.

@@ -7,12 +7,12 @@ importance: 3
 category: work
 ---
 
-We build a comprehensive security toolset for heterogeneous large-model deployments across text, vision, and multimodal tasks.
+The Endogenous Security Laboratory maintains a comprehensive security toolkit for heterogeneous large-model deployments serving mobility, finance, and public service scenarios.
 
 Highlights:
 
-- Directed fuzzing pipelines that surface unsafe behaviors and capability gaps in foundation models.
-- Watermarking and provenance tracking tailored for heterogeneous model ensembles deployed in finance, urban computing, and mobility.
-- Detection of RAG poisoning and prompt-based adversarial manipulation via model activation tracing.
+- Directed fuzzing pipelines that surface unsafe behaviors, capability gaps, and error-handling flaws across multimodal model families.
+- Heterogeneity-driven watermarking and provenance controls used in the Fu Bao Think Tank LLM deployments listed in the 2024 Shanghai Large Model Product Catalog.
+- RAG poisoning detection and collaborative defenses that monitor activation drift for early warning and automated mitigation.
 
-The toolset is deployed with municipal partners and enterprises and was recognized in the 2024 Shanghai Cybersecurity Innovation Achievement Catalog.
+The toolkit is jointly developed with municipal partners and enterprise ecosystems, and was named to the 2024 Shanghai Cybersecurity Innovation and Breakthrough Achievements Catalog (Rank 1).

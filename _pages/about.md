@@ -25,74 +25,63 @@ latest_posts:
   enabled: false
 ---
 
-Ping Chen is a Professor and Doctoral Supervisor at the Institute of Big Data, Fudan University, and a National-level Talent selected for the youth program. His group builds trustworthy intelligent vehicle and AI systems by combining systematic security architectures with resilient, data-driven defenses. He currently leads the Fudan **Security Laboratory**, a 30+ member team spanning undergraduate, graduate, and postdoctoral researchers working closely with automotive OEMs, cloud providers, and AI platform partners.
+Ping Chen is a Professor and Doctoral Supervisor at the Institute of Big Data, Fudan University. He leads the Endogenous Security Laboratory, a 30+ member team that partners with automotive OEMs, AI platform providers, and public agencies to deliver resilient intelligent vehicle and AI systems. His research spans intelligent connected vehicle security, AI robustness, system and software security, and privacy-aware risk analytics. Prof. Chen was selected for the national-level youth talent program and has coordinated 18 national and provincial projects with cumulative funding of roughly 20M RMB.
 
-## Research Focus
+## Areas of Research
 
-- **Large Models & AI Security** -- targeted fuzzing and capability probing for foundation models, automated defenses against RAG poisoning, and watermarking for heterogeneous multi-model deployments.
-- **Intelligent Connected Vehicle Security** -- endogenous defense architectures for ADAS/T-Box, network resilience assessment, and integrated safety-security assurance for intelligent driving stacks.
-- **System & Software Security** -- adaptive vulnerability discovery, cross-platform protocol analysis, and dynamic protections for cloud and virtualization runtimes.
-- **Data & Privacy Protection** -- full lifecycle governance, high-precision device fingerprinting, and privacy-preserving risk analytics for large-scale financial and mobility systems.
+- **Large model security** -- heterogeneity driven safety reviews for diffusion models, RAG poisoning defense, watermarking, and capability boundary assessment for foundation models.
+- **Intelligent connected vehicles** -- endogenous defense architectures for ADAS and T-Box units, network resilience assessment, and integrated functional safety plus cybersecurity assurance.
+- **Endogenous cybersecurity** -- multi-agent offensive and defensive simulation, reinforcement-learning driven risk detection, adaptive protection against zero-day, APT, and large scale threats.
+- **System and software security** -- data structure layout randomization, virtualization monitoring, and lightweight fuzzing strategies for complex software stacks.
 
-## Experience Highlights
+## Academic and Professional Appointments
 
-- **2021&nbsp;&ndash; Present &middot; Institute of Big Data, Fudan University** -- Professor, Doctoral Supervisor, National Talent Awardee. Established the Security Laboratory, delivering multi-agency projects and deep collaborations with SAIC, Geely, Huawei, Ant Group, and others.
-- **2018&nbsp;&ndash; 2021 &middot; JD.com Silicon Valley R&D Center** -- Senior Security Architect & Head of Data/Risk Control Security. Led a 60+ person global team delivering data security, privacy compliance, watermarking, and anti-fraud platforms.
-- **2014&nbsp;&ndash; 2018 &middot; Pennsylvania State University** -- Postdoctoral Scholar in software and system security, focusing on adaptive defense and malicious code detection.
-- **2012&nbsp;&ndash; 2014 &middot; EMC (USA)** -- Senior Researcher on cloud computing security for OpenStack network and storage virtualization.
+- **2021&nbsp;- Present** &middot; Professor and Doctoral Supervisor, Institute of Big Data, Fudan University.
+- **2018&nbsp;- 2021** &middot; Senior Security Architect and Head of Data/Risk Control Security, JD.com Silicon Valley R&D Center.
+- **2014&nbsp;- 2018** &middot; Postdoctoral Researcher, Pennsylvania State University (USA).
+- **2012&nbsp;- 2014** &middot; Senior Researcher, EMC (USA).
 
 ### Education
 
-- Ph.D. in Computer Software and Theory, Nanjing University, 2007&ndash;2012
-- Joint Ph.D. Training (Cloud Computing Security), Purdue University, 2010&ndash;2011
+- **Ph.D.** Computer Software and Theory, Nanjing University, 2007-2012.
+- **Joint Ph.D. Training** Cloud Computing Security, Purdue University, 2010-2011.
 
-## Honors & Recognition
+## Flagship Programs
 
-- 2025 &middot; Research on Intelligent Connected Vehicle Security Risk Assessment -- 2024 Major Scientific & Technological Progress Award (Rank 1)
-- 2024 &middot; National Talent Program Awardee
-- 2024 &middot; "Diversified Directed Fuzzing Toolset" listed in Shanghai Cybersecurity Innovation Achievements Catalog (Rank 1)
-- 2024 &middot; Large Language Model "Fu Bao Think Tank" selected for Shanghai Large Model Product Catalog
-- 2021 &middot; Shanghai Leading Talent
-
-## Strategic Projects
-
-- **National Key R&D Program** -- Integrated functional safety and cybersecurity assurance for intelligent driving systems (PI).
-- **National Key R&D Program** -- Cyberspace endogenous security mechanisms and assessment (PI).
-- **Quantum + Intelligent Connected Vehicles (MIIT Challenge)** -- Project lead, 2025&ndash;2028.
-- **Endogenous Security Lab** -- 18 national/provincial projects to date with cumulative collaboration funding near 20M RMB.
+- **National Key R&D Program** on integrated assurance for intelligent driving systems (PI).
+- **National Key R&D Program** on cyberspace endogenous security mechanisms and assessment (PI).
+- **MIIT Quantum + Intelligent Connected Vehicles Challenge Project** (Lead, 2025-2028).
+- **Diversified Directed Fuzzing Toolset** (Lead, recognized in Shanghai Cybersecurity Innovation Catalog 2024).
+- **Fu Bao Think Tank LLM** (Lead, selected for Shanghai Large Model Product Catalog 2024).
 
 <details markdown="1">
-<summary><strong>Expanded Portfolio</strong></summary>
+<summary><strong>Additional Initiatives</strong></summary>
 
-- Software open-source governance public service platform (Lead, 2024&ndash;2026).
-- Directed fuzzing technology for HarmonyOS and highly enclosed terminals with Huawei and State Grid (Lead, 2022&ndash;2024).
-- Cloud-edge industrial control system active defense modeling (Participant, 2022&ndash;2025).
-- Moving target defense (ARO MURI, 2014&ndash;2018) and OpenVMI: Virtual Machine Investigation Infrastructure (NSF-0855141).
+- Software open source governance public service platform, 2024-2026.
+- Protocol vulnerability analysis for highly enclosed terminals and HarmonyOS devices, 2022-2024.
+- Cloud-edge industrial control system active defense modeling, 2022-2025.
+- Historical contributions to moving target defense and virtual machine investigation infrastructures.
 
 </details>
 
-## Selected Publications
+## Selected Honors
 
-- Xue Tan, Hao Luan, Mingyu Luo, Xiaoyan Sun, **Ping Chen**, Jun Dai. *RevPRAG: Revealing Poisoning Attacks in Retrieval-Augmented Generation through LLM Activation Analysis.* EMNLP 2025.
-- Yu Liu, **Ping Chen**. *Measurement of Intrinsic Safety Resilience in Perceived Decision Systems.* Science China Technological Sciences, 2025.
-- Yin Cai, **Ping Chen**. *MIRAGE: Exploring How Large Language Models Perform in Complex Social Interactive Environments.* ACL 2025.
-- Lingyun Zhang, Yu Xie, Yanwei Fu, **Ping Chen**, et al. *RAINBOW: Risk-aware Navigation for Intelligent Connected Vehicles.* CVPR 2024.
-- Jiaqi Guo, Chunfeng Yuan, **Ping Chen**. *Adaptive Security Hardening for Autonomous Driving Software Stacks.* USENIX Security 2024.
+- 2025 &middot; Project on intelligent connected vehicle security risk assessment awarded the 2024 Major Scientific and Technological Progress Award in Network and Data Security (Rank 1).
+- 2024 &middot; National Talent Program awardee.
+- 2024 &middot; "Diversified Directed Fuzzing Toolset" listed in the Shanghai Cybersecurity Innovation and Breakthrough Achievements Catalog (Rank 1).
+- 2024 &middot; "Fu Bao Think Tank" LLM included in the Shanghai Large Model Product Catalog.
+- 2021 &middot; Shanghai Leading Talent; co-established city-level innovation centers spanning nuclear energy and intelligent vehicles.
 
-Additional publications and patents span CCS, USENIX Security, IEEE TDSC/TIFS, Automatica, and other top venues, along with 30+ China and U.S. patents.
+## Teaching and Mentorship
 
-## Teaching & Mentorship
+- Courses: Computer Principles (UG, 2022-2024); Large-Scale Distributed Systems (Grad, 2022-2024); Introduction to Artificial Intelligence (UG, 2024-2026); Cybernetics, Information Theory, and Systems Theory (UG, 2025-2026).
+- Advising: 15 Ph.D., 6 Master's, 4 undergraduate, and 2 postdoctoral researchers; graduates include 1 Ph.D., 7 Master's, and 2 undergraduate alumni.
+- Student teams earned titles at the 2024 Chuang'an Cup Intelligent Vehicle Security CTF, the 2023 and 2024 Qiangwang IoV Security Elite Challenges, and reached finals in the 2025 Intel AI Innovation Application competition and the 2025 National Postdoctoral Innovation and Entrepreneurship competition.
 
-- Courses: Computer Principles (UG, 2022&ndash;2024), Large-scale Distributed Systems (Grad, 2022&ndash;2024), Introduction to Artificial Intelligence (UG, 2024&ndash;2026), Cybernetics &middot; Information Theory &middot; Systems Theory (UG, 2025&ndash;2026).
-- Advising: 15 Ph.D., 6 Master's, 4 Undergraduate, and 2 Postdoctoral researchers; alumni include 1 Ph.D., 7 Master's, and 2 Undergraduate graduates.
-- Student awards include the 2024 Chuang'an Cup Intelligent Vehicle Security CTF (1st), 2024 & 2023 Qiangwang IoV Security Elite Challenge (Champion & Runner-up), and 2025 Intel AI Innovation Application International Finalist.
+## Service to the Community
 
-## Academic Service
+- Guest Editor, *Mathematics* (MDPI), 2025-2026.
+- Program Committee member for AAAI 2026, CCS Poster 2025, CCS MTD 2016-2017.
+- Reviewer for Journal of Computer Security, Chinese Journal of Computers, Science China, ACM Multimedia, CVPR, IEEE TDSC, IEEE TIFS, Automatica, RAID, CCS, ESORICS, and IET Information Security.
 
-- Guest Editor, *Mathematics* (MDPI), 2025&ndash;2026
-- Program Committee: AAAI 2026, CCS Poster 2025, CCS MTD 2016&ndash;2017
-- Reviewer: Journal of Computer Science, Chinese Journal of Computers, Science China, ACM MM, CVPR, IEEE TDSC, IEEE TIFS, Automatica, RAID, CCS, ESORICS, IET Information Security.
-
-## Let's Collaborate
-
-Ping welcomes joint research with academia and industry partners across intelligent vehicle, AI security, cyberspace resilience, and large-scale risk control. Reach out via email to discuss new initiatives or recruit into the Security Laboratory.
+Prof. Chen collaborates closely with industry and government partners to advance trustworthy mobility and AI infrastructures. Contact him via email to explore research partnerships, technology transfer opportunities, or prospective student placements within the Security Laboratory.

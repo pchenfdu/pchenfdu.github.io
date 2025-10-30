@@ -9,6 +9,8 @@
       value: pchen@fudan.edu.cn
     - name: Phone
       value: +86 182-0184-6876
+    - name: Date of Birth
+      value: April 29, 1985
     - name: Address
       value: No. 2005 Songhu Road, Yangpu District, Shanghai, China
 
@@ -33,8 +35,9 @@
       institution: Institute of Big Data, Fudan University
       year: 2021 -- Present
       description:
-        - Established the Security Laboratory with 30+ researchers.
-        - Leads national talent initiatives and large-scale security programs.
+        - Established the Endogenous Security Laboratory with 30+ researchers.
+        - Leads 18 national and provincial projects focused on intelligent vehicle and AI security.
+        - Co-established Shanghai municipal innovation centers for nuclear energy and intelligent vehicles.
     - title: Postdoctoral Scholar
       institution: Pennsylvania State University, USA
       year: 2014 -- 2018
@@ -78,6 +81,46 @@
       year: 2023 -- Present
       description:
         - Award-winning AI security toolkit for large-model ecosystems, deployed with municipal partners.
+    - title: Fu Bao Think Tank Large Language Model
+      year: 2023 -- Present
+      description:
+        - Developed heterogeneous watermarking and safety controls for municipal deployments; catalogued in Shanghai Large Model Product Catalog 2024.
+
+- title: Major Research Grants
+  type: time_table
+  contents:
+    - title: Quantum + Intelligent Connected Vehicles (MIIT Challenge Project)
+      year: 2025 -- 2028
+      description:
+        - Lead investigator delivering endogenous security architectures for national-level mobility infrastructures.
+    - title: Simulation Debugging Detection Technology (JF Project)
+      year: 2023 -- 2025
+      description:
+        - Designing novel simulation and debugging detection frameworks for critical systems.
+    - title: Mainstream *** Mining and Utilization (JF Project)
+      year: 2024 -- 2026
+      description:
+        - Exploring data governance and utilization strategies for high-value industrial datasets.
+    - title: Active Defense Modeling for Cloud-Edge Industrial Control Systems
+      year: 2022 -- 2025
+      description:
+        - Participant developing collaborative defense mechanisms across cloud-edge environments.
+    - title: Protocol Vulnerability Analysis System (Eighth Academy Project)
+      year: 2023 -- 2024
+      description:
+        - Delivered state save/restore based protocol fuzzing and vulnerability discovery.
+    - title: Directed Fuzzing Technology (Huawei)
+      year: 2023 -- 2024
+      description:
+        - Led targeted fuzzing solutions for HarmonyOS and highly enclosed terminal platforms.
+    - title: Resilience Assessment Consulting (Huawei)
+      year: 2025 -- 2026
+      description:
+        - Advising on resilience metrics and consulting for enterprise-scale cyber defense programs.
+    - title: Bot Detection System (JD.com & Duke University)
+      year: 2018 -- 2020
+      description:
+        - Co-led cross-border initiative on intelligent risk control and fraud detection.
 
 - title: Honors & Awards
   type: time_table
@@ -90,9 +133,35 @@
         - National Talent Program Awardee
         - Diversified Directed Fuzzing Toolset selected for Shanghai Cybersecurity Innovation Achievement Catalog (Rank 1)
         - Fu Bao Think Tank recognized in Shanghai Large Model Product Catalog
+        - Co-established Shanghai Nuclear Energy and Nuclear Power Collaborative Innovation Center
+        - Co-established Shanghai Intelligent Connected Vehicle Collaborative Innovation Center
     - year: 2021
       items:
         - Shanghai Leading Talent
+
+- title: Books and Chapters
+  type: time_table
+  contents:
+    - title: MTD Techniques for Memory Protection Against Zero-Day Attacks
+      institution: Springer
+      year: 2019
+      description:
+        - Contributed chapter in "Adversarial and Uncertain Reasoning for Adaptive Cyber Defense".
+    - title: Reinforcement Learning for Adaptive Cyber Defense Against Zero-Day Attacks
+      institution: Springer
+      year: 2019
+      description:
+        - Co-authored chapter in "Adversarial and Uncertain Reasoning for Adaptive Cyber Defense".
+    - title: Software Defined Data Center Technology and Application
+      institution: Electronic Industry Press, China
+      year: 2014
+      description:
+        - Co-authored orchestration and management chapter for EMC publication.
+    - title: Big Data Strategy, Technology and Application
+      institution: Electronic Industry Press, China
+      year: 2013
+      description:
+        - Authored section on cloud infrastructure security; received Outstanding Publication Award 2014.
 
 - title: Teaching
   type: time_table
@@ -115,6 +184,21 @@
       value: 1 Ph.D., 7 Master's, 2 Undergraduate graduates
     - name: Team Honors
       value: Chuang'an Cup Intelligent Vehicle Security CTF Champion 2024; Qiangwang IoV Security Challenge Champion 2024; Intel AI Innovation Application Finalist 2025
+
+- title: Student Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - Intel AI Innovation Application International Finalist
+        - National Postdoctoral Innovation and Entrepreneurship Competition Finalist (Team)
+    - year: 2024
+      items:
+        - Chuang'an Cup Intelligent Vehicle Security CTF Champion
+        - Qiangwang IoV Security Elite Challenge Champion
+    - year: 2023
+      items:
+        - Qiangwang IoV Security Elite Challenge Runner-up
 
 - title: Academic Service
   type: list
