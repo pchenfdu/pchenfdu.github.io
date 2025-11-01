@@ -175,7 +175,7 @@
   type: map
   contents:
     - name: Current Trainees
-      value: 15 Ph.D., 6 Master's, 4 Undergraduate, 2 Postdoctoral researchers
+      value: 15 Ph.D., 6 Master's, 16 Undergraduate, 2 Postdoctoral researchers
     - name: Alumni
       value: 1 Ph.D., 7 Master's, 2 Undergraduate graduates
     - name: Team Honors
