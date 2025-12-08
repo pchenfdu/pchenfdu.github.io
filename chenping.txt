@@ -108,6 +108,8 @@ Books/Book Chapters
 [BC4] EMC Company (Ping Chen with other EMC colleagues), “Big Data Strategy, Technology and Application” in Electronic Industry Press, China, 2013.5. “Chapter 3.2.4 Security of Cloud Infrastructure: New Challenges.” (The Outstanding Publication Award in 2014).
 
 Representative Papers
+[R1] Xue Tan, Hao Luan, Mingyu Luo, Zhuyang Yu, Jun Dai, Xiaoyan Sun, Ping Chen. Was my data used for training? Membership Inference in Open-source LLMs via Neural Actiivations}, NDSS, 2026. (CCF-A)
+[R2] Hao Luan, Xue Tan, Zhiheng Li, Jun Dai, Xiaoyan Sun. Ping Chen.Was my data used for training? Membership Inference in Open-source LLMs via Neural Actiivations}, NDSS, 2026. (CCF-A) 
 [R1] Xue Tan, Hao Luan, Mingyu Luo, Xiaoyan Sun, Ping Chen*, Jun Dai. RevPRAG: Revealing Poisoning Attacks in Retrieval-Augmented Generation through LLM Activation Analysis. EMNLP 2025. (CCF-B)
 [R2] Yu Liu, Ping Chen*. Measurement of Intrinsic Safety Resilience in Perceived Decision Systems. Science China Technological Sciences. 2025. (CCF-A Journal)
 [R3] Yin Cai, Ping Chen*. MIRAGE: Exploring How Large Language Models Perform in Complex Social Interactive Environments. ACL 2025. (CCF-A)
